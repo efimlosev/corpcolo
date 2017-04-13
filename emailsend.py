@@ -1,7 +1,7 @@
 #!/bin/python
 import smtplib,argparse
 
-from passwords import PassPm
+from passwords import PassPm # PassPm is a very simple class it and it consists this email = (email,password)
 
 def Main ():
     parser = argparse.ArgumentParser(usage = './emailsend.py subject message --to email1 email2 emailN' )
