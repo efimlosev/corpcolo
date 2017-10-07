@@ -1,1 +1,1 @@
-#Place holder
+#Please see the following link to learn more about DCI Manager API (https://doc.ispsystem.com/index.php/DCImanager_API#Servers)
