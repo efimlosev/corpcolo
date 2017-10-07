@@ -8,6 +8,6 @@
     * Deletes Used  Servers' IP.
     * Delete  Subnets which are not in use anymore.
     * Set Swiches' VLAN as it was before customers.
-5. add_subnet.py 
+5. add_subnet.py - This script helped me to provision servers.  I entered customer information the system using this script, like: an Ip,  a Domain name, name of the  customer,  etc. It also configure switches.
 
  
