@@ -1,14 +1,18 @@
-# Corpcolo - I used to work with them for 2 years
+# Corporate Colocation 
+The place there I worked for two years
 
-
-### I would like to share some scripts they may help somebody
-1. [A script which helps me to configure cabinet switches](/cabinetswitches)
-2. [A script which helps me configure ipmi](/ipmi)
-3. [A simple library which snds emails via GMail](https://github.com/efimlosev/corpcolo/blob/master/emailsend.py)
+### Few scripts that may simplify somebodies live
+1. [A script which helped me to configure cabinet switches](/cabinetswitches)
+2. [A script which helped me to  configure IPMI](/ipmi)
+3. [A simple email sinder](https://github.com/efimlosev/corpcolo/blob/master/emailsend.py)
 
 ### Provistioning systems
+ These sets of scripts helped me to work the provistion systems  
+ 
 1.[NOC-PS](/noc-ps)    
 2.[DCI Manager](/dcim)
+
 # Plans
+
 * Write a single script instead of bunch of script
 * Implement config files based on YAML language
