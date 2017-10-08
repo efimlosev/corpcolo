@@ -1,5 +1,5 @@
-# This file will describe my script in this folder
-** please visit to https://www.noc-ps.com/downloads/PXE_API.html tio learn more about NOC-PS's API
+
+### please visit to https://www.noc-ps.com/downloads/PXE_API.html to learn more about NOC-PS's API
 1. json_p_n.py - a simple library which helps to send requests to your  NOC -PS provistion system.
 2. password.py - we need this file to make our main library work. 
 3. inventory.ry My bosses wanted me to know how many servers are available.  it is ugly,  those days I didn't have enough experience.
