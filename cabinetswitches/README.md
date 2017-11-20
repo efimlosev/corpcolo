@@ -1,6 +1,6 @@
 # This Script should help you to configure cisco switches.
 
-It was test on cisco 2960series.
+It was tested on cisco 2960series.
 
 You have  install two  additional program:
 
