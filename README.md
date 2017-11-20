@@ -7,7 +7,7 @@ The place there I worked for two years
 3. [A simple email sinder](https://github.com/efimlosev/corpcolo/blob/master/emailsend.py)
 
 ### Provistioning systems
- These sets of scripts helped me to work the provistion systems  
+ These scripts helped me to work the provistion systems  
  
 1.[NOC-PS](/noc-ps)    
 2.[DCI Manager](/dcim)
