@@ -2,7 +2,7 @@
 
 It was tested on cisco 2960series.
 
-You have  install two  additional program:
+You have to install two  additional program:
 
 - netcat
 - sshpass
